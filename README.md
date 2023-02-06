@@ -8,7 +8,7 @@ This is Jamie Gagnon (they/them), a 29 year old self-proclaimed WebMage. I am cu
 
 - I've been coding since 2003; I was 9 years old... Twitter wasn't even a thing yet!
 - My first website was chock full of Sailor Moon images, and still exists on the web. (thanks freewebs)
-- I made an [old meme](https://knowyourmeme.com/memes/y-u-no-guy) a few years back
+- I made an [old meme](https://www.dictionary.com/e/memes/y-u-no/) a few years back
 
 ### About this GitHub
 
