@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**jamiegagnon-swc/jamiegagnon-swc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](avi.jpg) 
 
-Here are some ideas to get you started:
+This is Jamie Gagnon (they/them), a 29 year old self-proclaimed WebMage. I am currently attending Southwestern College for my Certificate of Proficiency in Web Design. I have 20 years of hobby experience with Web Design and Development, however I would like to turn my long-time hobby into a profession. My profile Icon is a picture of my cat, Muffin (she likes to sleep under warm, soft blankets)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts
+
+- I've been coding since 2003; I was 9 years old... Twitter wasn't even a thing yet!
+- My first website was chock full of Sailor Moon images, and still exists on the web. (thanks freewebs)
+- I made an [old meme](https://knowyourmeme.com/memes/y-u-no-guy) a few years back
+
+### About this GitHub
+
+This account is mainly a mirror for code used on my site, [https://jamiegagnon.art](https://jamiegagnon.art) so I can show code to my professors easily, as well as keep an archive of my code after school is done and I update the site to an art/web design portfolio. :D
